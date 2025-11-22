@@ -42,12 +42,14 @@ Open het Python-script en pas de instellingen bovenaan het bestand aan onder het
 **Bestandsstructuur**
 Zorg dat de mappenstructuur er ongeveer zo uitziet
 
+```text
 📂 project-map/
 ├── 📄 main.py           # Het Python script
 ├── 📄 requirements.txt  # Dependencies
 └── 📂 media/
     ├── 🖼️ drawing.png   # Je input icoontje (bronbestand)
     └── 📂 output/       # Hier komt de GIF terecht
+```
 
 ## 🚀 Gebruik
 Start het script simpelweg via de terminal:
